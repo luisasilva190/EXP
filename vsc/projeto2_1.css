@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Georgia', serif; 
+    font-size: 36px; 
+    color: #2C3E50; 
+    text-align: center; 
+    letter-spacing: 2px; 
+    margin: 20px 0; 
+}
+
+
+#mapDIV{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 600px;
+    width: 800px;
+    border: 1px solid black;
+    margin: auto; 
+}
+h2{
+    font-family: 'Georgia', serif; 
+    font-size: 16px;
+    color: #2C3E50; 
+    text-align: center; 
+    letter-spacing: 2px; 
+    margin: 20px 0; 
+}
